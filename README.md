@@ -11,7 +11,7 @@
 <br/><br/>
 
 <!-- Social Badges -->
-<a href="https://prasanthbhumula.me"><img src="https://img.shields.io/badge/🌐%20Portfolio-prasanthbhumula.me-7C3AED?style=for-the-badge&logoColor=white"/></a>&nbsp;
+<a href="https://prasanthbhumula21.vercel.app/"><img src="https://img.shields.io/badge/🌐%20Portfolio-prasanthbhumula.me-7C3AED?style=for-the-badge&logoColor=white"/></a>&nbsp;
 <a href="https://linkedin.com/in/prasanthkumar-bhumula"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="https://github.com/prasanth1221"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
 <a href="mailto:prasanthb301@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -40,7 +40,7 @@
 
 📬 &nbsp; **prasanthb301@gmail.com** &nbsp;|&nbsp; **+91 9848951203**
 
-🌐 &nbsp; [prasanthbhumula.me](https://prasanthbhumula.me)
+🌐 &nbsp; [prasanthbhumula.me](https://prasanthbhumula21.vercel.app/)
 
 <br clear="right"/>
 
@@ -217,7 +217,7 @@ Real-time anti-spoofing system using deep CNN to distinguish **live faces from p
 
 <br/>
 
-<a href="https://prasanthbhumula.me">
+<a href="https://prasanthbhumula21.vercel.app/">
   <img src="https://img.shields.io/badge/🌐%20%20Visit%20My%20Portfolio-prasanthbhumula.me-7C3AED?style=for-the-badge"/>
 </a>
 
